@@ -1,0 +1,35 @@
+
+#indoCulture {
+    padding: 290px 0 200px 0;
+  }
+  #indoCulture .content h5 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+  }
+  #indoCulture .content h3 {
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    line-height: 80px;
+    margin: 19px 0;
+  }
+  #indoCulture .content p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    color: white;
+  }
+  #indoCulture .content a {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: auto;
+    color: #FFC178;
+    text-transform: capitalize;
+    margin-top: 47px;
+  }
+  #indoCulture .img img {
+    width: 100%;
+  }

@@ -1,0 +1,40 @@
+
+#climb_together .image {
+    background: url(../../assets/bromo.jpg) no-repeat center / cover;
+  }
+  #climb_together .image .overlay {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 240px 0 100px 0;
+  }
+  #climb_together .image .overlay .content {
+    text-align: center;
+  }
+  #climb_together .image .overlay .content h4 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+  }
+  #climb_together .image .overlay .content h3 {
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    line-height: 80px;
+    margin-bottom: 13px;
+  }
+  #climb_together .image .overlay .content p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    color: white;
+    margin-bottom: 26px;
+  }
+  #climb_together .image .overlay .content a {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: auto;
+    color: #FFC178;
+    text-transform: capitalize;
+  }

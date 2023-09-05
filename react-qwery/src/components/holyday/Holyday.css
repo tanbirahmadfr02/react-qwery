@@ -1,0 +1,43 @@
+
+#holyday {
+    padding: 300px 0;
+  }
+  #holyday .img {
+    padding-right: 25px;
+  }
+  #holyday .img img {
+    width: 100%;
+  }
+  #holyday .content {
+    padding-left: 30px;
+  }
+  #holyday .content h5 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+  }
+  #holyday .content h3 {
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    line-height: 80px;
+  }
+  #holyday .content p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    color: white;
+    margin-top: 13px;
+  }
+  #holyday .content a {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: auto;
+    color: #FFC178;
+    text-transform: capitalize;
+    margin-top: 66px;
+  }
+  

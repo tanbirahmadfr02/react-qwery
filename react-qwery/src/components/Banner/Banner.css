@@ -1,0 +1,27 @@
+#banner {
+    background: url(../../assets/banner.jpg) no-repeat center / cover;
+  }
+  #banner .overlay {
+    padding: 462px 0;
+    background-color: rgba(0, 0, 0, 0.245);
+  }
+  #banner .overlay .content h3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+  }
+  #banner .overlay .content h1 {
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 100px;
+    color: white;
+    margin-top: 37px;
+  }
+  #banner .overlay .content h4 {
+    font-size: 88px;
+    font-weight: 400;
+    color: white;
+    margin-top: 37px;
+  }

@@ -1,0 +1,71 @@
+#footer .footerTop {
+    margin-bottom: 82px;
+  }
+  #footer .footerTop h6 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: auto;
+    color: white;
+  }
+  #footer .footerTop .footerBtn {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: auto;
+    color: black;
+    padding: 15px 35px;
+    background-color: #FFC178;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  #footer .footerBottom .left h5 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: auto;
+    color: white;
+  }
+  #footer .footerBottom .left .terms {
+    font-size: 15px;
+    font-weight: 400;
+    list-style: auto;
+    color: white;
+    margin: 50px 0 34px 0;
+  }
+  #footer .footerBottom .left .icons {
+    display: flex;
+    gap: 30px;
+  }
+  #footer .footerBottom .left .icons .icon a {
+    font-size: 20px;
+    color: white;
+  }
+  #footer .footerBottom .right {
+    display: flex;
+    justify-content: space-between;
+  }
+  #footer .footerBottom .right .item h4 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFC178;
+    margin-bottom: 30px;
+  }
+  #footer .footerBottom .right .item ul {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  #footer .footerBottom .right .item ul li a {
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+  }
+  #footer .copyright p {
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
